@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirayu wongtom
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirayu Wongtom
 ======================================================================================================================================
 
-this is my Github Profile
+this is my GitHub Profile
 -------------------------
+
+\------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Lampang , Hangchat
 * ✉️  You can contact me at [jirayu.wongtom@live.rmutl.ac.th](mailto:jirayu.wongtom@live.rmutl.ac.th)
