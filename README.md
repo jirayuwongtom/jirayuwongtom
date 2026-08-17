@@ -4,10 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 this is my GitHub Profile
 -------------------------
 
+* 🧠  I'm currently learning Software Engineering in Rajamangala University of Technology Lanna (RMUTL)
 * 🌍  I'm based in Lampang , Hangchat , Banlong City
 * ✉️  You can contact me at [jirayu.wongtom@live.rmutl.ac.th](mailto:jirayu.wongtom@live.rmutl.ac.th)
-* 🧠  I'm currently learning Software Engineering in Rajamangala University of Technology Lanna (RMUTL)
+* 💬  You can reach me on Discord at [T!MEZ413ETH#5991](https://discord.com/users/timez413eth)
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=jirayuwongtomrmutl&style=for-the-badge&color=212121&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ###  My Contributions
 <div align="center">
