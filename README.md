@@ -17,13 +17,3 @@ this is my GitHub Profile
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jirayuwongtom/jirayuwongtom/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-### 🔗 Connect with Me
-<p align="left"> 
-  <a href="https://www.github.com/jirayuwongtom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a> 
-  <a href="https://discord.com/users/timez413eth" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
